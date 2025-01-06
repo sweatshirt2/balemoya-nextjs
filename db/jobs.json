@@ -1,0 +1,220 @@
+{
+  "jobs": [
+    {
+      "id": "1",
+      "name": "Frontend Developer",
+      "description": "Develop user-facing features using React.js and other modern JavaScript frameworks.",
+      "requirements": "Proficiency in HTML, CSS, JavaScript; experience with React.js; understanding of responsive design principles."
+    },
+    {
+      "id": "2",
+      "name": "Backend Developer",
+      "description": "Build scalable APIs and backend systems using Node.js and database technologies.",
+      "requirements": "Strong knowledge of Node.js and Express.js; experience with database systems like MongoDB or MySQL; familiarity with RESTful API design."
+    },
+    {
+      "id": "3",
+      "name": "Full Stack Developer",
+      "description": "Work on both frontend and backend components of web applications using JavaScript technologies.",
+      "requirements": "Proficiency in both frontend (HTML, CSS, JavaScript) and backend (Node.js, Express.js); experience with frontend frameworks like React or Angular."
+    },
+    {
+      "id": "4",
+      "name": "JavaScript Developer",
+      "description": "Develop JavaScript applications for various platforms including web and mobile.",
+      "requirements": "Solid understanding of JavaScript (ES6+); experience with frontend frameworks (e.g., React, Vue.js); familiarity with server-side JavaScript (Node.js)."
+    },
+    {
+      "id": "5",
+      "name": "UI/UX Designer",
+      "description": "Design intuitive and visually appealing user interfaces for web applications.",
+      "requirements": "Strong portfolio showcasing UI/UX design skills; proficiency in design tools like Adobe XD, Sketch, or Figma; understanding of user-centered design principles."
+    },
+    {
+      "id": "6",
+      "name": "Mobile App Developer",
+      "description": "Develop cross-platform mobile applications using React Native or native iOS/Android frameworks.",
+      "requirements": "Experience in mobile app development; proficiency in React Native, Swift, or Kotlin; familiarity with mobile UI/UX design principles."
+    },
+    {
+      "id": "7",
+      "name": "Software Engineer",
+      "description": "Design and implement software solutions using JavaScript and other programming languages.",
+      "requirements": "Strong programming skills in JavaScript and/or other languages; experience with software design patterns and algorithms; familiarity with version control systems (e.g., Git)."
+    },
+    {
+      "id": "8",
+      "name": "Web Developer",
+      "description": "Create and maintain web applications using frontend and backend technologies.",
+      "requirements": "Proficiency in HTML, CSS, JavaScript; experience with backend frameworks like Node.js or Django; understanding of web development principles."
+    },
+    {
+      "id": "9",
+      "name": "Senior Frontend Engineer",
+      "description": "Lead the development of frontend applications, mentor junior developers, and drive technical decisions.",
+      "requirements": "Extensive experience with frontend technologies (e.g., React, Angular); leadership and mentoring skills; ability to architect scalable frontend solutions."
+    },
+    {
+      "id": "10",
+      "name": "Senior Backend Engineer",
+      "description": "Architect and develop scalable backend systems, optimize performance, and ensure system reliability.",
+      "requirements": "Strong backend development experience with Node.js, Python, or Java; expertise in database design and optimization; experience with cloud platforms (e.g., AWS, Azure)."
+    },
+    {
+      "id": "11",
+      "name": "Junior Frontend Developer",
+      "description": "Assist in developing frontend features, learn from senior developers, and contribute to team projects.",
+      "requirements": "Basic knowledge of HTML, CSS, and JavaScript; willingness to learn frontend frameworks (e.g., React, Vue.js); ability to work in a collaborative environment."
+    },
+    {
+      "id": "12",
+      "name": "Junior Backend Developer",
+      "description": "Assist in developing backend APIs and services, learn from experienced developers, and contribute to backend projects.",
+      "requirements": "Basic understanding of backend technologies (e.g., Node.js, Express); familiarity with databases (e.g., MongoDB, MySQL); eagerness to learn and grow as a backend developer."
+    },
+    {
+      "id": "13",
+      "name": "Frontend Team Lead",
+      "description": "Manage a team of frontend developers, oversee project timelines, and ensure quality code delivery.",
+      "requirements": "Experience leading frontend development teams; strong technical skills in frontend technologies; excellent communication and project management skills."
+    },
+    {
+      "id": "14",
+      "name": "Backend Team Lead",
+      "description": "Lead backend development efforts, coordinate with frontend teams, and drive architectural decisions.",
+      "requirements": "Proven experience as a backend team lead or senior developer; deep understanding of backend technologies and scalability; ability to mentor and guide team members."
+    },
+    {
+      "id": "15",
+      "name": "JavaScript Consultant",
+      "description": "Provide expert guidance and consulting services on JavaScript best practices and application architecture.",
+      "requirements": "Extensive experience with JavaScript and related frameworks; consulting or advisory experience; ability to analyze and optimize existing codebases."
+    },
+    {
+      "id": "16",
+      "name": "React.js Developer",
+      "description": "Specialize in developing web applications using React.js, implement reusable components, and optimize frontend performance.",
+      "requirements": "Strong proficiency in React.js; experience with state management libraries (e.g., Redux); familiarity with modern frontend build pipelines and tools."
+    },
+    {
+      "id": "17",
+      "name": "Angular Developer",
+      "description": "Develop scalable web applications using Angular, implement features, and ensure high performance and responsiveness.",
+      "requirements": "Proficiency in Angular (version 2+); understanding of TypeScript; experience with Angular CLI and RxJS; knowledge of state management patterns."
+    },
+    {
+      "id": "18",
+      "name": "Vue.js Developer",
+      "description": "Build interactive user interfaces using Vue.js, integrate with backend services, and optimize application performance.",
+      "requirements": "Solid experience with Vue.js and its ecosystem; proficiency in Vuex for state management; familiarity with Vue Router and Vue CLI."
+    },
+    {
+      "id": "19",
+      "name": "Node.js Developer",
+      "description": "Develop server-side applications using Node.js, build APIs, and integrate with databases and other services.",
+      "requirements": "Strong proficiency in Node.js; knowledge of Node.js frameworks (e.g., Express); experience with asynchronous programming and RESTful APIs."
+    },
+    {
+      "id": "20",
+      "name": "Senior JavaScript Developer",
+      "description": "Lead JavaScript development efforts, architect scalable solutions, and mentor junior developers.",
+      "requirements": "Extensive experience with JavaScript (ES6+); proficiency in frontend and/or backend development; leadership skills and ability to drive technical decisions."
+    },
+    {
+      "id": "21",
+      "name": "Full Stack JavaScript Developer",
+      "description": "Develop end-to-end JavaScript applications, from frontend interfaces to backend services and databases.",
+      "requirements": "Proficiency in both frontend (React, Angular, Vue.js) and backend (Node.js, Express); experience with databases (SQL and/or NoSQL); familiarity with cloud services."
+    },
+    {
+      "id": "22",
+      "name": "Junior Full Stack Developer",
+      "description": "Work on frontend and backend development tasks, learn from senior developers, and contribute to full stack projects.",
+      "requirements": "Basic understanding of HTML, CSS, JavaScript, and Node.js; willingness to learn frontend frameworks and backend technologies; ability to work in a team environment."
+    },
+    {
+      "id": "23",
+      "name": "Senior UI/UX Designer",
+      "description": "Lead UI/UX design efforts, create user-centered designs, and collaborate with development teams to implement design solutions.",
+      "requirements": "Proven experience as a UI/UX designer; strong portfolio showcasing design projects; proficiency in design tools and prototyping software."
+    },
+    {
+      "id": "24",
+      "name": "Mobile App UI/UX Designer",
+      "description": "Design intuitive and visually appealing user interfaces for mobile applications, ensuring a seamless user experience.",
+      "requirements": "Experience in mobile app UI/UX design; proficiency in design tools like Adobe XD, Sketch, or Figma; understanding of mobile design patterns and guidelines."
+    },
+    {
+      "id": "25",
+      "name": "Senior Mobile App Developer",
+      "description": "Architect and develop mobile applications for iOS and Android platforms, optimize performance, and ensure code quality.",
+      "requirements": "Extensive experience in mobile app development; proficiency in Swift, Kotlin, or React Native; familiarity with mobile UI design principles and patterns."
+    },
+    {
+      "id": "26",
+      "name": "Junior Mobile App Developer",
+      "description": "Assist in developing mobile applications, learn from experienced developers, and contribute to mobile app projects.",
+      "requirements": "Basic understanding of mobile app development; familiarity with iOS and/or Android platforms; eagerness to learn mobile technologies and frameworks."
+    },
+    {
+      "id": "27",
+      "name": "Software Development Engineer in Test (SDET)",
+      "description": "Design and implement automated testing solutions for JavaScript applications, ensuring high software quality and reliability.",
+      "requirements": "Strong programming skills in JavaScript; experience with testing frameworks (e.g., Jest, Mocha); proficiency in test automation and CI/CD pipelines."
+    },
+    {
+      "id": "28",
+      "name": "DevOps Engineer",
+      "description": "Automate and streamline operations and processes, build and maintain tools for deployment, monitoring, and operations.",
+      "requirements": "Experience with cloud platforms (AWS, Azure, GCP); proficiency in CI/CD pipelines; strong scripting skills (e.g., Bash, Python); knowledge of containerization technologies (Docker, Kubernetes)."
+    },
+    {
+      "id": "29",
+      "name": "Technical Support Engineer",
+      "description": "Provide technical support and troubleshooting assistance to customers and internal teams.",
+      "requirements": "Strong problem-solving skills; excellent communication skills; ability to troubleshoot and resolve technical issues."
+    },
+    {
+      "id": "30",
+      "name": "Marketing Specialist",
+      "description": "Develop and execute marketing campaigns, analyze market trends, and drive brand awareness.",
+      "requirements": "Experience in digital marketing; proficiency in SEO, SEM, and social media marketing; analytical skills and ability to interpret marketing metrics."
+    },
+    {
+      "id": "31",
+      "name": "Sales Manager",
+      "description": "Lead sales teams, develop sales strategies, and manage client relationships to achieve revenue goals.",
+      "requirements": "Proven experience in sales management; strong leadership and negotiation skills; ability to analyze sales data and trends."
+    },
+    {
+      "id": "32",
+      "name": "HR Manager",
+      "description": "Manage human resources operations, including recruitment, employee relations, and performance management.",
+      "requirements": "Experience in HR management; knowledge of employment laws and regulations; excellent interpersonal and communication skills."
+    },
+    {
+      "id": "33",
+      "name": "Financial Analyst",
+      "description": "Conduct financial analysis, prepare reports, and provide insights to support business decisions.",
+      "requirements": "Strong analytical skills; proficiency in financial modeling and forecasting; knowledge of accounting principles and financial regulations."
+    },
+    {
+      "id": "34",
+      "name": "Graphic Designer",
+      "description": "Create visual concepts and designs for various projects, including digital and print media.",
+      "requirements": "Proficiency in design software (e.g., Adobe Creative Suite); creativity and artistic skills; attention to detail and ability to meet deadlines."
+    },
+    {
+      "id": 565,
+      "name": "Sales Manager",
+      "desc": "blah blah...",
+      "req": "just sit around and watch youtube"
+    },
+    {
+      "id": 671,
+      "name": "Registrar",
+      "description": "temari magulalat",
+      "requirements": "madarek"
+    }
+  ]
+}
